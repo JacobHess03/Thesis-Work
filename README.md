@@ -1,5 +1,5 @@
 # Thesis Work: Rilevamento Anomalie nei Registri di Sistema attraverso il Deep Learning
-**Nota:** Il lavoro di Tesi è stato di studio e modifica ed adattabilità del modello degli autori, valutando a seguito delle modifiche i risultati
+**Nota:** Il lavoro di Tesi è stato di studio e modifica ed adattabilità del modello degli autori, valutando a seguito delle modifiche i risultati.
 Questo progetto implementa DeepLog, un modello di rete neurale profonda basato su LSTM (Long Short-Term Memory) per il rilevamento delle anomalie nei registri di sistema. L'approccio DeepLog tratta i log di sistema come sequenze di linguaggio naturale, apprendendo automaticamente i pattern durante il normale funzionamento e segnalando anomalie quando i nuovi log si discostano dai pattern appresi.
 
 ---
