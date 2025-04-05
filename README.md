@@ -1,5 +1,27 @@
 # Thesis Work: Rilevamento Anomalie nei Registri di Sistema attraverso il Deep Learning
 **Nota:** Il lavoro di Tesi è stato di studio e modifica ed adattabilità del modello degli autori, valutando a seguito delle modifiche i risultati.
+
+MIT License
+
+Copyright (c) 2019 Yifan Wu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 Questo progetto implementa DeepLog, un modello di rete neurale profonda basato su LSTM (Long Short-Term Memory) per il rilevamento delle anomalie nei registri di sistema. L'approccio DeepLog tratta i log di sistema come sequenze di linguaggio naturale, apprendendo automaticamente i pattern durante il normale funzionamento e segnalando anomalie quando i nuovi log si discostano dai pattern appresi.
 
 ---
